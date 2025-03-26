@@ -129,5 +129,3 @@ if isinstance(date_range, tuple) and len(date_range) == 2:
 
 else:
     st.warning("⚠️ Por favor selecciona un rango de fechas válido.")
-
-!pip install streamlit
